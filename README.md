@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![logo]()
 <h1 align="center">Hi 👋, I'm Mahesh Gore</h1>
-<h3 align="center">A passionate Software Engineer. developer from India</h3>
+<h3 align="center">A passionate Software Engineer & developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshgore45&label=Profile%20views&color=0e75b6&style=flat" alt="maheshgore45" /> </p>
 
